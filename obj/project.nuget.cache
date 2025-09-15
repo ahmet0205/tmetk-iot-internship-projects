@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e+isKhjsxbw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VEDAT YEŞİL\\Desktop\\iotproject\\tmetk-iot-internship-projects\\deneme3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VEDAT YEŞİL\\.nuget\\packages\\mqttnet\\4.3.7.1207\\mqttnet.4.3.7.1207.nupkg.sha512",
+    "C:\\Users\\VEDAT YEŞİL\\.nuget\\packages\\mqttnet.extensions.managedclient\\4.3.7.1207\\mqttnet.extensions.managedclient.4.3.7.1207.nupkg.sha512",
+    "C:\\Users\\VEDAT YEŞİL\\.nuget\\packages\\stereokit\\0.3.7\\stereokit.0.3.7.nupkg.sha512",
+    "C:\\Users\\VEDAT YEŞİL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
